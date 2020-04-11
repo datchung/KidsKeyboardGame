@@ -1,5 +1,5 @@
 # KidsKeyboardGame
-Simple Kids Keyboard Game made with my kids.
+Simple kids keyboard game made with my kids.
 
 # How it works
 Press a key on the keyboard and the corresponding mapped sound will play. If no sound is mapped to the pressed key, then a default sound will be played.

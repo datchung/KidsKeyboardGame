@@ -121,6 +121,9 @@
   <data name="Ariel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ariel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Baa_Baa_Black_Sheep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Baa Baa Black Sheep.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="Beauty_and_the_Beast_Tale_As_Old_As_Time" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Beauty and the Beast Tale As Old As Time.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -138,6 +141,9 @@
   </data>
   <data name="pooh_bear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pooh bear.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="The_Little_Mermaid_Under_the_Sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\The Little Mermaid Under the Sea.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Media;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
@@ -50,6 +51,8 @@ namespace WindowsFormsApp1
                     ProcessKeyPress(e, Properties.Resources.Winnie_the_Pooh_Everything_is_Honey);
                     break;
                 case (char)54:
+                    ProcessKeyPress(e, Properties.Resources.Baa_Baa_Black_Sheep);
+                    break;
                 case (char)55:
                 case (char)56:
                 case (char)57:

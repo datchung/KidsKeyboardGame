@@ -73,6 +73,15 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
+        public static System.IO.UnmanagedMemoryStream Baa_Baa_Black_Sheep {
+            get {
+                return ResourceManager.GetStream("Baa_Baa_Black_Sheep", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
         public static System.IO.UnmanagedMemoryStream Beauty_and_the_Beast_Tale_As_Old_As_Time {
             get {
                 return ResourceManager.GetStream("Beauty_and_the_Beast_Tale_As_Old_As_Time", resourceCulture);
@@ -123,6 +132,16 @@ namespace WindowsFormsApp1.Properties {
         public static System.Drawing.Bitmap pooh_bear {
             get {
                 object obj = ResourceManager.GetObject("pooh_bear", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap sheep {
+            get {
+                object obj = ResourceManager.GetObject("sheep", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

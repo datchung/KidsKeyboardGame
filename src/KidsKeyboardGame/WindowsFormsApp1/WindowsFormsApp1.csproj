@@ -122,5 +122,11 @@
   <ItemGroup>
     <None Include="Resources\pooh bear.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baa Baa Black Sheep.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

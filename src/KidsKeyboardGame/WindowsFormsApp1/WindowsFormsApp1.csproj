@@ -104,5 +104,17 @@
   <ItemGroup>
     <None Include="Resources\toot.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beauty and the Beast Tale As Old As Time.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frozen Let It Go.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Peter Pan.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The Little Mermaid Under the Sea.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

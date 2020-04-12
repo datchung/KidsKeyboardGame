@@ -35,22 +35,24 @@ namespace WindowsFormsApp1
             switch (e.KeyChar)
             {
                 case (char)49:
-                    ProcessKeyPress(e, Properties.Resources.Beauty_and_the_Beast);
+                    ProcessKeyPress(e, Properties.Resources.Beauty_and_the_Beast_Tale_As_Old_As_Time);
                     break;
                 case (char)50:
-                    ProcessKeyPress(e, Properties.Resources.Under_the_Sea);
+                    ProcessKeyPress(e, Properties.Resources.The_Little_Mermaid_Under_the_Sea);
                     break;
                 case (char)51:
-                    ProcessKeyPress(e, Properties.Resources.Let_It_Go);
+                    ProcessKeyPress(e, Properties.Resources.Frozen_Let_It_Go);
                     break;
-                case (char)48:
                 case (char)52:
+                    ProcessKeyPress(e, Properties.Resources.Peter_Pan);
+                    break;
                 case (char)53:
                 case (char)54:
                 case (char)55:
                 case (char)56:
                 case (char)57:
                 case (char)58:
+                case (char)48:
                 default:
                     ProcessKeyPress(e, Properties.Resources.toot);
                     break;

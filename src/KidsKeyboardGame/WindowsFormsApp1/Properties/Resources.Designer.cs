@@ -73,9 +73,9 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        public static System.IO.UnmanagedMemoryStream Beauty_and_the_Beast {
+        public static System.IO.UnmanagedMemoryStream Beauty_and_the_Beast_Tale_As_Old_As_Time {
             get {
-                return ResourceManager.GetStream("Beauty_and_the_Beast", resourceCulture);
+                return ResourceManager.GetStream("Beauty_and_the_Beast_Tale_As_Old_As_Time", resourceCulture);
             }
         }
         
@@ -102,9 +102,27 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        public static System.IO.UnmanagedMemoryStream Let_It_Go {
+        public static System.IO.UnmanagedMemoryStream Frozen_Let_It_Go {
             get {
-                return ResourceManager.GetStream("Let_It_Go", resourceCulture);
+                return ResourceManager.GetStream("Frozen_Let_It_Go", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream Peter_Pan {
+            get {
+                return ResourceManager.GetStream("Peter_Pan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream The_Little_Mermaid_Under_the_Sea {
+            get {
+                return ResourceManager.GetStream("The_Little_Mermaid_Under_the_Sea", resourceCulture);
             }
         }
         
@@ -124,15 +142,6 @@ namespace WindowsFormsApp1.Properties {
         public static System.IO.UnmanagedMemoryStream toot {
             get {
                 return ResourceManager.GetStream("toot", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
-        /// </summary>
-        public static System.IO.UnmanagedMemoryStream Under_the_Sea {
-            get {
-                return ResourceManager.GetStream("Under_the_Sea", resourceCulture);
             }
         }
     }

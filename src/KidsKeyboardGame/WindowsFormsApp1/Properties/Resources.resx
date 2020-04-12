@@ -121,8 +121,8 @@
   <data name="Ariel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ariel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Beauty_and_the_Beast" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Beauty and the Beast.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Beauty_and_the_Beast_Tale_As_Old_As_Time" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beauty and the Beast Tale As Old As Time.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Belle_disney" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Belle_disney.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -130,16 +130,19 @@
   <data name="Elsa_frozen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Elsa-frozen.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Let_It_Go" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Let It Go.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Frozen_Let_It_Go" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frozen Let It Go.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Peter_Pan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Peter Pan.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="The_Little_Mermaid_Under_the_Sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The Little Mermaid Under the Sea.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Tinkerbell" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Tinkerbell.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="toot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\toot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Under_the_Sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Under the Sea.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

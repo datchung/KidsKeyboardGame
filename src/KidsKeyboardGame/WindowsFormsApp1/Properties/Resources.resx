@@ -136,6 +136,9 @@
   <data name="Peter_Pan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Peter Pan.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="pooh_bear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pooh bear.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="The_Little_Mermaid_Under_the_Sea" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\The Little Mermaid Under the Sea.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -144,5 +147,8 @@
   </data>
   <data name="toot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\toot.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Winnie_the_Pooh_Everything_is_Honey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Winnie the Pooh Everything is Honey.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

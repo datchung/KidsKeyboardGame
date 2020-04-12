@@ -47,6 +47,8 @@ namespace WindowsFormsApp1
                     ProcessKeyPress(e, Properties.Resources.Peter_Pan);
                     break;
                 case (char)53:
+                    ProcessKeyPress(e, Properties.Resources.Winnie_the_Pooh_Everything_is_Honey);
+                    break;
                 case (char)54:
                 case (char)55:
                 case (char)56:

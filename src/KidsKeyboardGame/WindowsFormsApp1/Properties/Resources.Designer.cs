@@ -118,6 +118,16 @@ namespace WindowsFormsApp1.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap pooh_bear {
+            get {
+                object obj = ResourceManager.GetObject("pooh_bear", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
         public static System.IO.UnmanagedMemoryStream The_Little_Mermaid_Under_the_Sea {
@@ -142,6 +152,15 @@ namespace WindowsFormsApp1.Properties {
         public static System.IO.UnmanagedMemoryStream toot {
             get {
                 return ResourceManager.GetStream("toot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream Winnie_the_Pooh_Everything_is_Honey {
+            get {
+                return ResourceManager.GetStream("Winnie_the_Pooh_Everything_is_Honey", resourceCulture);
             }
         }
     }

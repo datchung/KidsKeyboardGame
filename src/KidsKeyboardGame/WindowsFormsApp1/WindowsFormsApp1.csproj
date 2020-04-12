@@ -116,5 +116,11 @@
   <ItemGroup>
     <None Include="Resources\The Little Mermaid Under the Sea.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Winnie the Pooh Everything is Honey.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pooh bear.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

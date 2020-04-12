@@ -62,6 +62,8 @@ namespace WindowsFormsApp1
                     ProcessKeyPress(e, Properties.Resources.toot);
                     break;
             }
+
+            Thread.Sleep(250);
         }
     }
 }
